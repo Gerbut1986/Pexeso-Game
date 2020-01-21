@@ -1,0 +1,6 @@
+D:\Software Development\C# All Persons\Егор (Киев)\Same_Symbols_Game\Same_Symbols_Game\bin\Debug\Same_Symbols_Game.exe.config
+D:\Software Development\C# All Persons\Егор (Киев)\Same_Symbols_Game\Same_Symbols_Game\bin\Debug\Same_Symbols_Game.exe
+D:\Software Development\C# All Persons\Егор (Киев)\Same_Symbols_Game\Same_Symbols_Game\bin\Debug\Same_Symbols_Game.pdb
+D:\Software Development\C# All Persons\Егор (Киев)\Same_Symbols_Game\Same_Symbols_Game\obj\Debug\Same_Symbols_Game.csprojAssemblyReference.cache
+D:\Software Development\C# All Persons\Егор (Киев)\Same_Symbols_Game\Same_Symbols_Game\obj\Debug\Same_Symbols_Game.exe
+D:\Software Development\C# All Persons\Егор (Киев)\Same_Symbols_Game\Same_Symbols_Game\obj\Debug\Same_Symbols_Game.pdb
